@@ -12,7 +12,7 @@ For chromium-based browsers (Brave, Chrome,...).
   - start.html
     - change the links and categories to your liking
   - main.css
-    - change the background image (you will most likely have to change the photo dimensions)
+    - change the background image (you will most likely have to change the photo dimensions at least)
       - If you want to use Unsplash Source for the background images, here's a [guide](https://source.unsplash.com/)
     - Optional: Change some colors
 3. In your browser, go to `chrome://extensions` and click the `Developer mode` checkbox on the top right
