@@ -17,6 +17,7 @@ For chromium-based browsers (Brave, Chrome,...).
     - Optional: Change some colors
 3. In your browser, go to `chrome://extensions` and click the `Developer mode` checkbox on the top right
 4. Click the `load unpacked extension...` button, navigate to the custom-newtab and select it
+
 Enjoy.
 
 ## Caveats
